@@ -1,2 +1,2 @@
 # TNG
-A copy of the files needed to draw The Number Graph.
+A copy of the files needed to draw the-number-graph.
